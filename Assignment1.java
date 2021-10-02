@@ -1,17 +1,21 @@
-//@ where is the import Scanner statement ?????
-//@ this is not our homework !!!!
-//Yahia howsawi
-//442009190
-//your grade is 0/5
+ import java.util.Scanner; 
+ //Yahia howsaw
+ //442009190
 class Main {
   public static void main(String[] args) {
-   Scanner var = new Scanner(System.in);
-   System.out.println("Enter your name");
-   System name = var.nextline();
-   System.out.println("Enter your age");
-   int age = var.nextInt();
-   if(2021-age < 2000){
-     System.out.println("ita ok");
+   	  Scanner scan = new Scanner(System.in); 
+		 
+		         float  number1;                              
+             float  number2; 
+                   
+        System.out.println("Enter your  number1: ");
+          number1 = scan.nextFloat();
+        System.out.println("Enter your number2: ");    
+         number2 = scan.nextFloat();
+          System.out.println("Don"); 
+   
+    
+       
   
   }
 }
