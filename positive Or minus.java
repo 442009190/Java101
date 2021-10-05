@@ -1,5 +1,5 @@
 	    import java.util.Scanner;
-public class  Main {
+public class  Positive Or minus {
     public static void main(String[] args) { 
       	Scanner var = new Scanner(System.in);
 		
