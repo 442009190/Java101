@@ -5,7 +5,7 @@ class Even or Odd
   public static void main(String args[]) {
      Scanner input = new Scanner(System.in);
     
-    int var;
+    int num;
      System.out.println("Enter an Integer number:"); 
       num = input.nextInt(); 
     if ( num % 2 == 0 )
