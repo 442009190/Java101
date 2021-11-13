@@ -1,5 +1,5 @@
  import java.util.Scanner;
-
+//zero for cheating !!!
 class Main {
   public static void main(String[] args) {
     
