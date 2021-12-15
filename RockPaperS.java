@@ -10,8 +10,7 @@ public class Main {
         do{
             System.out.println("If you want to play enter:\n(r or R) for rock,\n(p or P) for paper,\n(s or S) for scissors\nor Enter any key to exit");
             //get the input from the scanner as string. [ User Input w3schools ]
-             String X =""; 
-              X = scan.nextLine();  
+             String X = scan.nextLine();  
             //convert the string to lower case by using toLowerCase() [ String w3schools ]
               X = X.toLowerCase();
             //get first char by using charAt() [ String w3schools ]
